@@ -6,3 +6,4 @@ graph TD;
     B-->D;
     C-->D;
 ```
+$Test^6$
