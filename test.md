@@ -8,6 +8,6 @@ graph TD;
 
 $Test^6$
 
-<table><tbody><tr><th>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><th>a</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><th>aaa</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><th>aaaaaa</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><th>&nbsp;</th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>a</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>aaa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>aaaaaa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
 ![WF](./img/drawing.svg)
