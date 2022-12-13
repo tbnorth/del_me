@@ -14,4 +14,3 @@ $Test^6$
 
 <object type="image/svg+xml" data="./img/drawing.svg">
 </object>
-
